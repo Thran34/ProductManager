@@ -2,6 +2,6 @@
 
 public enum Category
 {
-    Owoc,
-    Warzywo
+    Fruit,
+    Vegetable
 }
